@@ -9,7 +9,7 @@ Check out the live application on GitHub Pages:
 
 ---
 
-## ✨ Features
+## ✨ Features             
 
 - **Task Management**: Seamlessly add, complete, and delete tasks.
 - **Dynamic Filtering**: Easily filter tasks by status: `All`, `Active`, and `Completed`.
